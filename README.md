@@ -1,4 +1,4 @@
 #### schoolAssignments
 
 Hey folks, I am learning C++. 
-This are C++ code that I write for school assignments.
+This repo will contain all the C++ school assignments.
